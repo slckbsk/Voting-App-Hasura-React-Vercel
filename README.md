@@ -1,7 +1,7 @@
 # Voting-App-Hasura-React-Vercel
 
 
-### https://chat-hasura-server-client.vercel.app/
+### https://voting-app-hasura-react-vercel.vercel.app/
 ### <a href="https://voting-app-hasura-react-vercel.vercel.app/"><img src="https://raw.githubusercontent.com/slckbsk/solana-nftminter-vercel/main/public/vercel.svg"></a>
 
 ## ----------------
