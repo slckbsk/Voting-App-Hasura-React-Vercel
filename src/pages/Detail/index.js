@@ -105,6 +105,7 @@ function Detail() {
                   id={id}
                   value={option.id}
                   onChange={({ target }) => setSelectedOptionId(target.value)}
+                  disabled={isVoted}
                 />
                 <span>{option.option}</span>
                 {isVoted && (
